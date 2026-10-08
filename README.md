@@ -38,3 +38,11 @@ Rao Yenamandra
 
 © 2026 Rao Yenamandra. All Rights Reserved.# RANOpt-AI
 RANOpt AI development 
+
+## Research Paper (Rev17.8)
+
+[An Explainable Single-Step PPO Framework for AI-Native 6G RAN Scheduling: From Reference Outputs to Validated Implementation](RANOpt_Rev17.8.pdf) — revised paper reporting the validated five-seed neural-PPO campaign.
+
+## Validated Artifact
+
+[RANOpt_AI_SIM_v17.8.html](RANOpt_AI_SIM_v17.8.html) — the v17.8 browser artifact evaluated in the paper: neural single-step PPO (11→64→64→5+1, Adam, PPO-clip). Open directly in a browser; no backend needed.
